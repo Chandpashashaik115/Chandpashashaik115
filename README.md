@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandpashashaik115
 - 👀 I’m interested in Artificial Intelligence, Computer Vision, Chess and Anime
-- 🌱 I’m currently learning GEN AI 
+- 🌱 I’m currently working on  GEN AI Projects
 - 💞️ I’m looking to collaborate on Computer Vision, Informatica, AWS
 - 📫 How to reach me chandpashashaik115@gmail.com
 - 😄 Pronouns: He/Him
